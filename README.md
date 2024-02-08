@@ -1,6 +1,4 @@
 # The SIGMA templates and atlases for the Wistar Rat Brain
-.. image:: https://zenodo.org/badge/754192253.svg
-  :target: https://zenodo.org/doi/10.5281/zenodo.10635531
 
 The current document is a short description of the second version of the SIGMA resources for the Wistar rat brain. 
 For a full description of the resources and the methodologies used to create them please consult the main publication [Barriere D.A. et al 2019].
