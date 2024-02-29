@@ -162,7 +162,7 @@ Spatial resolution 0.09x0.09x0.09mm.
 ## Important Note
 SIGMA ressources are provided at the scanner resolution and are oriented in anterior commisure/posterior commisure axis. Center of the images have been set at the anterior commisure level (Bregma 0 mm). Nevertheless, users are invited to increase the resolution of the current images for using in SPM or FSL for accurate coregistration and normalization steps (we recommand x10 increasing). No manipulation of image resolution are required with ANTs. Not tested with AFNI.
 
-For any questions regarding the SIGMA ressource, please email the SIGMA Team (sigma.preclinical.resources@gmail.com) or Email directly David A. Barrière (david.barriere@cnrs.fr).
+For any questions regarding the SIGMA ressource, please email David A. Barrière (david.barriere@cnrs.fr).
 
 # REFERENCES
 Barrière, D.A. et al. The SIGMA rat brain templates and atlases for multimodal MRI data analysis and visualization. Nat Commun 10, 5699 (2019). https://doi.org/10.1038/s41467-019-13575-7
